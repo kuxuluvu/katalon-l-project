@@ -17,19 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-
-WebUI.takeScreenshotAsCheckpoint('current_viewport1')
-WebUI.takeScreenshotAsCheckpoint('current_viewport2')
-WebUI.takeScreenshotAsCheckpoint('current_viewport3')
-WebUI.takeScreenshotAsCheckpoint('current_viewport4')
-WebUI.takeScreenshotAsCheckpoint('current_viewport5')
-WebUI.takeScreenshotAsCheckpoint('current_viewport6')
-WebUI.takeScreenshotAsCheckpoint('current_viewport7')
-WebUI.takeScreenshotAsCheckpoint('current_viewport8')
-WebUI.takeScreenshotAsCheckpoint('current_viewport9')
-WebUI.takeScreenshotAsCheckpoint('current_viewport10')
-WebUI.takeScreenshotAsCheckpoint('current_viewport11')
-WebUI.takeScreenshotAsCheckpoint('current_viewport12')
